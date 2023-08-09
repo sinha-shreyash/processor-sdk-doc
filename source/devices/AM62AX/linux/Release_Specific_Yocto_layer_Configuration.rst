@@ -11,12 +11,12 @@ meta layers. These are the <config> used in the command:
 
 ``$ ./oe-layertool-setup.sh -f <config>``
 
-The following config files are located in the **configs/processor-sdk**
+The following config files are located in the **configs/processor-sdk-analytics**
 directory of the `oe-layersetup git repo <https://git.ti.com/cgit/arago-project/oe-layersetup/>`_.
 
-+----------------------------------------+-----------------------------------+------------------------------------------------------+
-| Config File                            | Description                       | Supported machines/platforms                         |
-+========================================+===================================+======================================================+
-| processor-sdk-08.06.00-config.txt      | Processor SDK 08.06.00.45 Release | am62axx-evm                                          |
-+----------------------------------------+-----------------------------------+------------------------------------------------------+
++--------------------------------------------------+---------------------------------------------+------------------------------------------------------+
+| Config File                                      | Description                                 | Supported machines/platforms                         |
++==================================================+=============================================+======================================================+
+| processor-sdk-analytics-10.01.00-config.txt      | Processor SDK Analytics 10.01.00 Release    | am62axx-evm                                          |
++--------------------------------------------------+---------------------------------------------+------------------------------------------------------+
 

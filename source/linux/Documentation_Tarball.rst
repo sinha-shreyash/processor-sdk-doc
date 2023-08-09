@@ -1,9 +1,9 @@
+.. include:: /_replacevars.rst
+
 Documentation Tarball
 =====================
 
-Please click the link below to download a snapshot of the entire documentation in HTML format.
-
-`Download processor-sdk-linux-docs.tar.gz <processor-sdk-linux-docs.tar.gz>`__
+Please download a snapshot of the entire documentation in HTML format from |__SDK_DOWNLOAD_URL__|.
 
 Unpack the tarball using the command below:
 

@@ -201,7 +201,7 @@ assume that you are calling the Makefile from the top-level of the SDK.
    ::
 
       BOOT_PART?=/path/to/sd-card/boot-partition
-      ROOT_PART?=/path/to/sd-card/root-partition
+      ROOTFS_PART?=/path/to/sd-card/root-partition
 
 -  Set the correct value for the SOC_TYPE variable in Rules.make according
    to the platform being used.
